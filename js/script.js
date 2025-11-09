@@ -1,3 +1,4 @@
+//Let's create an employee counter
 let count = 0;
 function updateCountDisplay() {
     document.getElementById('empCount').textContent = count;
